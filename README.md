@@ -1,4 +1,4 @@
-![muumif's GitHub stats](https://github-readme-stats.vercel.app/api?username=muumif&show_icons=true&theme=dracula&count_private=true&hide=contribs,stars)
+![muumif's GitHub stats](https://github-readme-stats.vercel.app/api?username=muumif&show_icons=true&theme=dracula&count_private=true&hide=contribs,stars)L
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muumif&layout=compact&theme=dracula&count_private=true)
 
